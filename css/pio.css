@@ -15,7 +15,7 @@ body {
 
 ::-webkit-scrollbar {
     width: 8px;
-    background: #1a3742;
+    background: #1d2120;
 }
 
 ::-webkit-scrollbar-thumb {
@@ -34,7 +34,7 @@ body {
 
 body {
    font-family: 'open_sansregular', Helvetica, Arial, sans-serif;
-	background-color: #1A3742;
+	background-color: #1d2120;
 	background-size: cover;
 	background-position: top center;
 	background-attachment: fixed;
@@ -93,12 +93,12 @@ section {
 }
 
 #section0 {
-	background:#1A3742;
-	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1A3742), to(#9EA183));
-	background-image: -webkit-linear-gradient(top, #1A3742, #9EA183);
-	background-image: -moz-linear-gradient(top, #1A3742, #9EA183);
-	background-image: -ms-linear-gradient(top, #1A3742, #9EA183);
-	background-image: -o-linear-gradient(top, #1A3742, #9EA183);
+	background:#1d2120;
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#1d2120), to(#9EA183));
+	background-image: -webkit-linear-gradient(top, #1d2120, #9EA183);
+	background-image: -moz-linear-gradient(top, #1d2120, #9EA183);
+	background-image: -ms-linear-gradient(top, #1d2120, #9EA183);
+	background-image: -o-linear-gradient(top, #1d2120, #9EA183);
 }
 
 #section1 {
@@ -117,7 +117,7 @@ section {
 
 #section5 {
 	padding-top: 30px;
-	background-color: #1A3742;
+	background-color: #1d2120;
 	background-image: url('../img/bg_blue.png');
 	background-repeat: no-repeat;
 	background-position: bottom middle;
@@ -170,7 +170,7 @@ section {
 	left: 10px;
 	top: 11px;
 	z-index: 1001;
-	color: #1a3742;
+	color: #1d2120;
 }
 
 nav.main {
