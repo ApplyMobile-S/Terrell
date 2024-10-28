@@ -145,12 +145,12 @@ section {
 
 .projectinfo {
 	height: auto;
-	background-color: #405554;
+	background-color: #1d2120;
 	background-repeat: repeat-none;
 	background-position: center left;
 	padding-top: 3em;
 	padding-bottom: 1em;
-	background-image: url('../img/bgl.jpg');
+	/*background-image: url('../img/bgl.jpg');*/
 /*	background-attachment: fixed;*/
    -webkit-background-size: cover;
    -moz-background-size: cover;
